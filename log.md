@@ -8,14 +8,28 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: March 15, 2018 - Friday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Solved FCC Basic Algorithm Scripting - 15 problems
+1.CelsiusToFahrenheit
+2.ReverseString
+3.FactorializeNumber
+4.FindLongestWordinString
+5.LargestNumbersInArrays
+6.ConfirmTheEnding
+7.RepeatString
+8.TruncateString
+9.FindersKeepers
+10.BooWho
+11.TitleCaseSentence
+12.FalsyBouncer
+13.WheredoIBelong
+14.Mutations
+15.ChunkyMonkey
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: These are pretty simple problems and easy to start (90 min).
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [DS-Algo]()
 
 
 ### Day 1: June 27, Monday
