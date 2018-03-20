@@ -57,9 +57,9 @@
 25.MissingLetters
 26.SortedUnion
 27.ConvertHTMLEntities
-28.SumAllOddFibonacciNumbers.js
-29.SumAllPrimes.js
-30.SmallestCommonMultiple.js
+28.SumAllOddFibonacciNumbers
+29.SumAllPrimes
+30.SmallestCommonMultiple
 
 **Thoughts**
 
