@@ -69,15 +69,13 @@
 ### Day 4: March 19, 2018 - Monday
 
 **Today's Progress**: Finished FCC Intermediate - 7 probs
-11.TitleCaseSentence
-12.FalsyBouncer
-13.WheredoIBelong
-14.Mutations
-15.ChunkyMonkey
-16.Mutations
-17.SumNumbersInRange
-18.DiffTwoArrays
-19.SeekAndDestroy
-20.WhereforeArtThou
+31.DropIt
+32.Steamroller
+33.BinaryAgents
+34.EverythingBeTrue
+35.ArgumentsOptional
+36.MakePerson
+37.MapTheDebris
+
 
 **Thoughts**
