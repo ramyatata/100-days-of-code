@@ -25,7 +25,7 @@
 
 **Thoughts**: These are pretty simple problems and easy to start (90 min).
 
-**Link(s) to work**: [DS-Algo]()
+**Link(s) to work**: [DS-Algo](FCC - 1 to 10)
 
 
 ### Day 2: March 17, 2018 - Saturday
@@ -44,7 +44,7 @@
 
 **Thoughts**
 
-**Link(s) to work**: [DS-Algo]()
+**Link(s) to work**: [DS-Algo](FCC - 11 to 20)
 
 
 ### Day 3: March 18, 2018 - Sunday
@@ -63,7 +63,7 @@
 
 **Thoughts**
 
-**Link(s) to work**: [DS-Algo]()
+**Link(s) to work**: [DS-Algo](FCC - 20 to 30)
 
 
 ### Day 4: March 19, 2018 - Monday
@@ -76,6 +76,55 @@
 35.ArgumentsOptional
 36.MakePerson
 37.MapTheDebris
+38.PalindromeChecker
+39.RomanNumeralConverter [YTD]
+40.CaesarsCipher
 
 
-**Thoughts**
+**Thoughts**. More problems from certificate challanges should be done.
+**Link(s) to work**: [DS-Algo](FCC - 30 to 40)
+
+### Day 5: March 20, 2018 - Tuesday
+
+**Today's Progress**: Worked on basic datastructures/sorting algos randomly
+41.LinearSearch
+42.ArrayList
+43.LinkedList
+44.BinarySearch
+45.BubbleSort
+46.InsertionSort
+47.SortBitArray
+48.FindSumIntegers
+49.MergeArrays
+50.SumIntegersHash
+
+
+**Thoughts**.
+**Link(s) to work**: [DS-Algo](Prep - 1 to 11 (missed 4))
+
+### Day 6: March 21, 2018 - Wednesday
+
+**Today's Progress**: Worked on basic datastructures/sorting algos randomly
+51.GCD
+52.OnesInSortedBitArray
+53.SelectionSort
+54.Queue
+55.Stack
+56.Hashtable
+57.
+58.
+59.
+60.
+
+
+**Thoughts**.
+**Link(s) to work**: [DS-Algo](Prep - 12 to 17)
+
+### Day 6: March 22, 2018 - Thursday
+
+**Today's Progress**: Worked on basic datastructures/sorting algos randomly
+
+
+
+**Thoughts**.
+**Link(s) to work**: [DS-Algo]()
